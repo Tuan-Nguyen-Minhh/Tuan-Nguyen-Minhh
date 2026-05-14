@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Tuan 👋</h1>
+<h1 align="center">Hi, I'm Tuan (Nguyễn Minh Tuấn) 👋</h1>
 
 <p align="center">
-Computer Vision & NLP Researcher
+<b>Computer Vision & NLP Researcher | Information Technology | USTH</b>
 </p>
 
 <p align="center">
@@ -12,28 +12,29 @@ Computer Vision & NLP Researcher
 
 ## 🔬 Research Interests
 
-My work sits at the intersection of **Computer Vision** and **Natural Language Processing**, with a focus on real-world document understanding and human-computer interaction:
+My work focuses on bridging the gap between theoretical Deep Learning and real-world applications, specializing in:
 
-- **Document AI** — OCR, key information extraction, layout analysis for low-resource languages (Vietnamese)
-- **Gesture & Sign Language Recognition** — hand detection, landmark-based classification pipelines
-- **Model Optimization** — efficient architectures for deployment on constrained hardware
+- **Document AI & OCR** — Specialized in Key Information Extraction (KIE) and layout analysis for low-resource languages, specifically Vietnamese retail documents.
+- **Human-Computer Interaction** — Developing real-time gesture recognition and sign language translation using hybrid landmark-vision pipelines.
+- **Model Efficiency** — Optimizing architectures like YOLO and light-weight Transformers for deployment in constrained environments.
 
 ---
 
 ## 🚀 Research Projects
 
-### 📄 End-to-End Pipeline for Vietnamese Retail Receipt Key Information Extraction
-A multi-model OCR system for precise bill localization and structured data extraction.
-- Combines **YOLO-based** document region detection with **VietOCR** and **PaddleOCR** engines
-- Tackles challenges specific to Vietnamese retail receipts: varied fonts, skewed scans, mixed scripts
-- Pipeline covers: region detection → text recognition → field classification → structured output
+### 📄 End-to-End Pipeline for Vietnamese Retail Receipt KIE
+*Development of a graduation thesis focused on extracting structured data from complex documents.*
+- **Architecture**: A multi-stage pipeline utilizing **YOLO** for document localization and field segmentaton.
+- **OCR Engine**: Integrated **VietOCR** and **PaddleOCR** to handle diverse Vietnamese fonts, hand-written notes, and low-quality thermal prints.
+- **KIE**: Implementing post-processing logic to transform raw text into structured JSON format for retail management systems.
+- **Status**: Active Research & Development. [Source Code Coming Soon]
 
-### 🤟 Sign Language Recognition System
-A three-stage pipeline for real-time American Sign Language (ASL) translation.
-- **YOLOv8** for robust hand region detection
-- **MediaPipe** for 21-point hand landmark extraction
-- **SVM classifier** for gesture-level prediction
-- Designed for low-latency inference to support real-time communication aids
+### 🤟 Sign Language Recognition System (ASL)
+*A robust, low-latency system for real-time American Sign Language translation.*
+- **Hand Detection**: Utilizing **YOLOv8** to achieve high-precision hand localization even in cluttered backgrounds.
+- **Feature Extraction**: Leveraging **MediaPipe** to extract 21-point hand landmarks, converting visual data into spatial coordinates.
+- **Classification**: A hybrid approach using **SVM (Support Vector Machine)** for gesture-level prediction, optimized for real-time inference on CPU.
+- **Outcome**: Successfully translated static and basic dynamic gestures with high stability.
 
 ---
 
@@ -41,33 +42,27 @@ A three-stage pipeline for real-time American Sign Language (ASL) translation.
 
 **AI / ML Research**
 
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![Anaconda](https://skillicons.dev/icons?i=anaconda)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda,sklearn" />
+</p>
 
-> Also working with: `YOLOv8`, `MediaPipe`, `VietOCR`, `PaddleOCR`, `scikit-learn`, `OpenCV`
+> **Specialized Tools:** `YOLOv8/v11`, `MediaPipe`, `VietOCR`, `PaddleOCR`, `OpenCV`, `Docker` (for model serving)
 
-**Engineering & Backend**
+**Engineering & Systems**
 
-![Python](https://skillicons.dev/icons?i=py)
-![C/C++](https://skillicons.dev/icons?i=c,cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Flask](https://skillicons.dev/icons?i=flask)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,linux" />
+</p>
 
-**Frontend & OS**
+**Web & Deployment**
 
-![Frontend](https://skillicons.dev/icons?i=html,css,react)
-![Linux](https://skillicons.dev/icons?i=linux)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,html,css" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tuan-Nguyen-Minhh&show_icons=true&locale=en&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tuan-Nguyen-Minhh&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" height="165"/>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuan-Nguyen-Minhh&theme=transparent&hide_border=true"/>
@@ -77,7 +72,7 @@ A three-stage pipeline for real-time American Sign Language (ASL) translation.
 
 ## 📬 Get in Touch
 
-I'm open to collaborations on applied AI research, especially in Document Understanding and low-resource language processing.
+I'm open to collaborations on applied AI research, especially in Document Understanding and computer vision challenges.
 
 <p align="center">
   <a href="mailto:ng.minhtuann.dev@gmail.com"><img src="https://img.shields.io/badge/Email-ng.minhtuann.dev%40gmail.com-blue?style=flat&logo=gmail"/></a>
