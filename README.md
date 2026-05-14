@@ -40,8 +40,6 @@ My work focuses on bridging the gap between theoretical Deep Learning and real-w
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda,sklearn" />
 </p>
 
-> **Specialized Tools:** `YOLOv8/v11`, `MediaPipe`, `VietOCR`, `PaddleOCR`, `OpenCV`, `Docker` (for model serving)
-
 **Engineering & Systems**
 
 <p align="left">
