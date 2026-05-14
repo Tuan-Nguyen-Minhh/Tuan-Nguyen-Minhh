@@ -3,7 +3,6 @@
 <p align="center">
 <b>Computer Vision & NLP Researcher | Information Technology | USTH</b>
 </p>
----
 
 ## 🔬 Research Interests
 
