@@ -3,11 +3,6 @@
 <p align="center">
 <b>Computer Vision & NLP Researcher | Information Technology | USTH</b>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tuan-Nguyen-Minhh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🔬 Research Interests
