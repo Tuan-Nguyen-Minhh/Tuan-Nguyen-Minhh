@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tuan (Nguyễn Minh Tuấn) 👋</h1>
+<h1 align="center">Hi, I'm Tuan 👋</h1>
 
 <p align="center">
 <b>Computer Vision & NLP Researcher | Information Technology | USTH</b>
