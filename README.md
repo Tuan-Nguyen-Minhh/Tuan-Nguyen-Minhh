@@ -16,10 +16,10 @@ My work focuses on bridging the gap between theoretical Deep Learning and real-w
 
 ## 🚀 Research Projects
 
-### 📄 End-to-End Pipeline for Vietnamese Retail Receipt KIE
+### 📄 An End-to-End Method to Extract Key Information for Vietnamese Retail Receipts
 *Development of a graduation thesis focused on extracting structured data from complex documents.*
 - **Architecture**: A multi-stage pipeline utilizing **YOLO** for document localization and field segmentaton.
-- **OCR Engine**: Integrated **VietOCR** and **PaddleOCR** to handle diverse Vietnamese fonts, hand-written notes, and low-quality thermal prints.
+- **OCR Engine**: Integrated **VietOCR** to handle diverse Vietnamese fonts, hand-written notes, and low-quality thermal prints.
 - **KIE**: Implementing post-processing logic to transform raw text into structured JSON format for retail management systems.
 - **Status**: Active Research & Development. [Source Code Coming Soon]
 
