@@ -43,8 +43,8 @@
 
 ### 🚀 Featured Projects
 
-* 📝 **[Tên Dự Án 1 - e.g., End-to-End OCR Pipeline]**(Link_repo_cua_ban) - Mô tả ngắn gọn (1-2 dòng) về công nghệ bạn sử dụng (ví dụ: YOLO, PaddleOCR, FastAPI) và kết quả đạt được.
-* 🤖 **[Tên Dự Án 2 - e.g., Sign Language Recognition]**(Link_repo_cua_ban) - Mô tả ngắn gọn về mô hình phân loại và cách bạn tối ưu nó.
+* 📝 **[End-to-End Pipeline for Vietnamese Retail Receipt Key Information Extraction](#)** - A multi-model OCR system designed for precise bill localization and data extraction, leveraging YOLO architectures and robust OCR engines like VietOCR and PaddleOCR.
+* 🤖 **[Sign Language Recognition System](#)** - A three-stage pipeline for ASL translation that utilizes YOLOv8 for hand detection, MediaPipe for landmark extraction, and SVM models for accurate gesture classification.
 
 ---
 
