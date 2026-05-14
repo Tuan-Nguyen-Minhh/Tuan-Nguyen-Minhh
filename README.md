@@ -1,69 +1,90 @@
-# Hi 👋, I'm Tuan-Nguyen-Minhh
+<h1 align="center">Hi, I'm Tuan 👋</h1>
 
-### 💻 Developer & AI Enthusiast | Building web apps, mobile apps, and exploring the frontiers of AI 🚀
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Tuan-Nguyen-Minhh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
-
----
-
-### 💡 About Me
-
-- 🔭 I'm currently working on **web & mobile applications**, while diving deep into **Machine Learning, Deep Learning, Computer Vision, and NLP 🚀**
-- 🌱 I'm constantly learning and experimenting with **advanced AI architectures and model optimizations.**
-- 🤝 I'm looking to collaborate on **innovative AI applications and system integrations.**
-- 💬 Ask me about **Computer Vision, AI concepts, and full-stack development.**
-- 📫 How to reach me: **[ng.minhtuann.dev@gmail.com](mailto:ng.minhtuann.dev@gmail.com)**
-
----
-
-### 🛠️ Languages and Tools
-
-**AI & Machine Learning:**
-<p align="left"> 
-  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a> 
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/></a> 
-  <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/></a> 
-</p>
-
-**Development & OS:**
-<p align="left"> 
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a> 
-  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c,cpp" alt="c/cpp" width="80" height="40"/></a> 
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/></a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/></a> 
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a> 
-  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,react" alt="frontend" width="120" height="40"/></a> 
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a> 
-</p>
-
----
-
-### 🚀 Featured Projects
-
-* 📝 **[End-to-End Pipeline for Vietnamese Retail Receipt Key Information Extraction](#)** - A multi-model OCR system designed for precise bill localization and data extraction, leveraging YOLO architectures and robust OCR engines like VietOCR and PaddleOCR.
-* 🤖 **[Sign Language Recognition System](#)** - A three-stage pipeline for ASL translation that utilizes YOLOv8 for hand detection, MediaPipe for landmark extraction, and SVM models for accurate gesture classification.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tuan-Nguyen-Minhh&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="Tuan-Nguyen-Minhh Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tuan-Nguyen-Minhh&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuan-Nguyen-Minhh&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://github.com/Tuan-Nguyen-Minhh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tuan-Nguyen-Minhh" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/tuan-nguyen-minhhh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuan-nguyen-minhhh" height="30" width="40" /></a>
-  <a href="https://fb.com/nguyenminhtuan.info" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyenminhtuan.info" height="30" width="40" /></a>
+Computer Vision & NLP Researcher
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tuan-Nguyen-Minhh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🔬 Research Interests
+
+My work sits at the intersection of **Computer Vision** and **Natural Language Processing**, with a focus on real-world document understanding and human-computer interaction:
+
+- **Document AI** — OCR, key information extraction, layout analysis for low-resource languages (Vietnamese)
+- **Gesture & Sign Language Recognition** — hand detection, landmark-based classification pipelines
+- **Model Optimization** — efficient architectures for deployment on constrained hardware
+
+---
+
+## 🚀 Research Projects
+
+### 📄 End-to-End Pipeline for Vietnamese Retail Receipt Key Information Extraction
+A multi-model OCR system for precise bill localization and structured data extraction.
+- Combines **YOLO-based** document region detection with **VietOCR** and **PaddleOCR** engines
+- Tackles challenges specific to Vietnamese retail receipts: varied fonts, skewed scans, mixed scripts
+- Pipeline covers: region detection → text recognition → field classification → structured output
+
+### 🤟 Sign Language Recognition System
+A three-stage pipeline for real-time American Sign Language (ASL) translation.
+- **YOLOv8** for robust hand region detection
+- **MediaPipe** for 21-point hand landmark extraction
+- **SVM classifier** for gesture-level prediction
+- Designed for low-latency inference to support real-time communication aids
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / ML Research**
+
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![Anaconda](https://skillicons.dev/icons?i=anaconda)
+
+> Also working with: `YOLOv8`, `MediaPipe`, `VietOCR`, `PaddleOCR`, `scikit-learn`, `OpenCV`
+
+**Engineering & Backend**
+
+![Python](https://skillicons.dev/icons?i=py)
+![C/C++](https://skillicons.dev/icons?i=c,cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Flask](https://skillicons.dev/icons?i=flask)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+
+**Frontend & OS**
+
+![Frontend](https://skillicons.dev/icons?i=html,css,react)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tuan-Nguyen-Minhh&show_icons=true&locale=en&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tuan-Nguyen-Minhh&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" height="165"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuan-Nguyen-Minhh&theme=transparent&hide_border=true"/>
+</div>
+
+---
+
+## 📬 Get in Touch
+
+I'm open to collaborations on applied AI research, especially in Document Understanding and low-resource language processing.
+
+<p align="center">
+  <a href="mailto:ng.minhtuann.dev@gmail.com"><img src="https://img.shields.io/badge/Email-ng.minhtuann.dev%40gmail.com-blue?style=flat&logo=gmail"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/tuan-nguyen-minhhh"><img src="https://img.shields.io/badge/LinkedIn-tuan--nguyen--minhhh-blue?style=flat&logo=linkedin"/></a>
+  &nbsp;
+  <a href="https://github.com/Tuan-Nguyen-Minhh"><img src="https://img.shields.io/badge/GitHub-Tuan--Nguyen--Minhh-black?style=flat&logo=github"/></a>
+  &nbsp;
+  <a href="https://fb.com/nguyenminhtuan.info"><img src="https://img.shields.io/badge/Facebook-nguyenminhtuan.info-blue?style=flat&logo=facebook"/></a>
 </p>
