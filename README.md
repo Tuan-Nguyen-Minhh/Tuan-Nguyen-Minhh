@@ -62,14 +62,6 @@ My work focuses on bridging the gap between theoretical Deep Learning and real-w
 
 ---
 
-## 📊 GitHub Stats
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuan-Nguyen-Minhh&theme=transparent&hide_border=true"/>
-</div>
-
----
-
 ## 📬 Get in Touch
 
 I'm open to collaborations on applied AI research, especially in Document Understanding and computer vision challenges.
