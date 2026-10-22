@@ -1,55 +1,3 @@
-Ran list user public repos using gh CLI
-Ran list all user repos
-Ran check details of the two repos
-
-Rất chuẩn! Việc bỏ thẻ Stats (Rank C+) và thay bằng **ghim (pin) trực tiếp 3 dự án tiêu biểu** sẽ giúp profile chuyên nghiệp hơn rất nhiều.
-
-Tôi đã kiểm tra trên GitHub của bạn và tìm thấy đủ cả 3 repository công khai tương ứng:
-1. **`HRHelp`**
-2. **`web-american-sign-language`**
-3. **`An-End-to-End-Method-to-Extract-Key-Information-for-Vietnamese-Retail-Receipts`** *(Repo này còn có đầy đủ số liệu cực khủng: LayoutLMv3 F1-score 92.5% trên 37 entity, YOLOv8 segmentation 99.5% mAP50! Tôi đã cập nhật luôn link repo và số liệu thực tế này vào README).*
-
----
-
-### Cách 1: Ghim chính thức trên giao diện GitHub (Khuyên dùng nhất)
-1. Bạn vào trang cá nhân: [github.com/Tuan-Nguyen-Minhh](https://github.com/Tuan-Nguyen-Minhh)
-2. Ở phần **Pinned** (ngay dưới bio hoặc trên/dưới README), bấm vào nút **`Customize your pins`**.
-3. Tích chọn đúng 3 repository này:
-   - [x] **`HRHelp`**
-   - [x] **`web-american-sign-language`**
-   - [x] **`An-End-to-End-Method-to-Extract-Key-Information-for-Vietnamese-Retail-Receipts`**
-4. Bấm **Save pins**. Khi người khác vào GitHub của bạn, 3 repo này sẽ hiện ngay ở vị trí đẹp nhất!
-
----
-
-### Cách 2: Nhúng 3 thẻ Repo Pin Cards trực tiếp vào cuối `README.md`
-Thay vì để ảnh thống kê stats rank C+, đoạn cuối file README sẽ được thay bằng 3 thẻ Pin repository trực quan:
-
-```markdown
----
-
-## 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/Tuan-Nguyen-Minhh/HRHelp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuan-Nguyen-Minhh&repo=HRHelp&theme=github_dark" />
-  </a>
-  <a href="https://github.com/Tuan-Nguyen-Minhh/web-american-sign-language">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuan-Nguyen-Minhh&repo=web-american-sign-language&theme=github_dark" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Tuan-Nguyen-Minhh/An-End-to-End-Method-to-Extract-Key-Information-for-Vietnamese-Retail-Receipts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuan-Nguyen-Minhh&repo=An-End-to-End-Method-to-Extract-Key-Information-for-Vietnamese-Retail-Receipts&theme=github_dark" />
-  </a>
-</p>
-```
-
----
-
-### Toàn bộ file `README.md` hoàn thiện (đã cập nhật link repo thesis, số liệu thực & bỏ thẻ stats):
-
-```markdown
 <h1 align="center">Hi, I'm Tuan</h1>
 
 <p align="center">
@@ -137,4 +85,3 @@ A low-latency, hybrid computer vision application for real-time American Sign La
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuan-Nguyen-Minhh&repo=An-End-to-End-Method-to-Extract-Key-Information-for-Vietnamese-Retail-Receipts&theme=github_dark" />
   </a>
 </p>
-```
