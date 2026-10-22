@@ -72,16 +72,22 @@ A low-latency, hybrid computer vision application for real-time American Sign La
 
 ## 📌 Pinned Repositories
 
-<p align="center">
-  <a href="https://github.com/Tuan-Nguyen-Minhh/HRHelp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuan-Nguyen-Minhh&repo=HRHelp&theme=github_dark" />
-  </a>
-  <a href="https://github.com/Tuan-Nguyen-Minhh/web-american-sign-language">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuan-Nguyen-Minhh&repo=web-american-sign-language&theme=github_dark" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Tuan-Nguyen-Minhh/An-End-to-End-Method-to-Extract-Key-Information-for-Vietnamese-Retail-Receipts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuan-Nguyen-Minhh&repo=An-End-to-End-Method-to-Extract-Key-Information-for-Vietnamese-Retail-Receipts&theme=github_dark" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/Tuan-Nguyen-Minhh/HRHelp">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tuan-Nguyen-Minhh&repo=HRHelp&show_owner=false&description_lines_count=2&theme=transparent&title_color=2f81f7&text_color=768390&icon_color=768390&border_color=768390&border_radius=8" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Tuan-Nguyen-Minhh/web-american-sign-language">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tuan-Nguyen-Minhh&repo=web-american-sign-language&show_owner=false&description_lines_count=2&theme=transparent&title_color=2f81f7&text_color=768390&icon_color=768390&border_color=768390&border_radius=8" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Tuan-Nguyen-Minhh/An-End-to-End-Method-to-Extract-Key-Information-for-Vietnamese-Retail-Receipts">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tuan-Nguyen-Minhh&repo=An-End-to-End-Method-to-Extract-Key-Information-for-Vietnamese-Retail-Receipts&show_owner=false&description_lines_count=2&theme=transparent&title_color=2f81f7&text_color=768390&icon_color=768390&border_color=768390&border_radius=8" />
+      </a>
+    </td>
+  </tr>
+</table>
